@@ -1,2 +1,2 @@
 # rhyme_mediaplayer
-An optimized media player that supports all file formats. Additional: *also includes a simple audio player*
+An optimized media player that supports all media formats. *Additional: Also includes a simple audio player*
